@@ -6,81 +6,77 @@
 
 ## 🚀 About Me
 
-I’m **Ali Essam**, a passionate cybersecurity expert with over 12 years of experience in protecting digital assets and ensuring a safer digital landscape. As the Chief Executive Officer at [DragonMeta](https://www.egscan.co/), I lead innovative cybersecurity solutions while staying at the forefront of technological advancements.
+I’m **Ali Essam**, a passionate **Penetration Tester**, **Bug Bounty Hunter**, and **Cybersecurity Expert** with over **8 years** of hands-on experience identifying and exploiting security vulnerabilities in web applications, APIs, and cloud platforms.
 
-Currently, I’m also a Penetration Tester & CEO at [DragonMeta](https://www.dmeta.one/), where our team provides cutting-edge security services. I’m actively pursuing a Bachelor's degree in Computer Science to deepen my knowledge and tackle future cybersecurity challenges.
+As the **Founder & CEO** of [DragonMeta](https://www.dmeta.one/), I specialize in providing expert **pen testing** and **vulnerability assessments** for global clients, including **Google**, **NASA**, and other leading tech firms.
+
+I’m constantly challenging myself to stay ahead of emerging threats, improving my skillset through **bug bounty programs**, and contributing to the security community.
 
 ## 🔍 What I Do
 
-### 🌐 **Network Security**
+### 💻 **Penetration Testing**
 
-- **Architecture Design:** Crafting robust network structures to resist attacks.
-- **Firewall Implementation:** Deploying advanced firewalls to protect critical assets.
-- **IDS/IPS Configuration:** Setting up intrusion detection/prevention systems for real-time threat monitoring.
+- **Web Application Security:** Conducting deep dives into web applications and APIs to identify critical vulnerabilities (SQLi, XSS, CSRF, etc.).
+- **Exploitation & Remediation:** Exploiting vulnerabilities, assessing their impact, and providing actionable remediation steps.
+- **Cloud Security:** Assessing cloud-based environments (AWS, Azure) for misconfigurations, weak security settings, and vulnerabilities.
 
-### 🔒 **Information Security Management**
+### 🎯 **Bug Bounty Hunting**
 
-- **Policy Development:** Creating and enforcing comprehensive security policies.
-- **Risk Assessments:** Conducting detailed risk evaluations to ensure data protection.
-- **Compliance:** Ensuring adherence to industry standards like ISO 27001 and NIST.
+- **HackerOne & Bugcrowd:** Actively hunting bugs on top platforms like HackerOne and Bugcrowd, with over **450 vulnerabilities** reported, including **zero-day exploits**.
+- **Hall of Fame Recognition:** Recognized for significant contributions in securing high-risk web applications, APIs, and cloud infrastructures for global enterprises.
+- **Vulnerability Research:** Continuously exploring novel attack vectors, automating workflows, and sharing findings with the cybersecurity community.
 
-### 💻 **Application Security**
+### 🛠 **Security Tools & Techniques**
 
-- **Secure Code Reviews:** Analyzing code to find and fix security vulnerabilities.
-- **Penetration Testing:** Performing thorough tests to uncover weaknesses.
-- **Development Guidance:** Advising on secure development practices (OWASP Top 10, secure SDLC).
+- **Pen Testing Tools:** Proficient in using **Burp Suite**, **Metasploit**, **Wireshark**, **Nmap**, and custom scripts for comprehensive security testing.
+- **Web Application Firewalls (WAF):** Testing and bypassing WAFs to identify security gaps.
+- **Automation:** Writing custom tools and scripts (in **Python**, **PHP**, **JavaScript**) to automate repetitive tasks and vulnerability scanning.
 
-### 🚨 **Incident Response**
+## 🌟 **Highlighted Projects & Achievements**
 
-- **Planning:** Developing strategies for effective incident management.
-- **Mitigation:** Assisting in quick containment and recovery from security breaches.
-
-### 📊 **Security Audits & Compliance**
-
-- **Assessments:** Reviewing security controls to identify and address vulnerabilities.
-- **Regulatory Compliance:** Ensuring compliance with GDPR, HIPAA, and other regulations.
-
-## 🌟 **Projects & Achievements**
-
-- **Secure Network Architecture:** Designed a resilient network for a multinational corporation, implementing layered defenses.
-- **Web Application Fortification:** Enhanced security for an e-commerce platform through comprehensive testing and remediation.
-- **Security Awareness Training:** Created engaging training programs to educate employees on cybersecurity best practices.
-- **Incident Response Planning:** Developed a robust response plan for a financial institution, minimizing downtime during incidents.
+- **Egyscan**: Created and open-sourced [Egyscan](https://github.com/dragonked2/Egyscan), a **web vulnerability scanner** that detects common web app security issues.
+- **Bug Bounty Contributions**: Identified and reported critical vulnerabilities, including **zero-days**, on platforms like HackerOne and Bugcrowd, earning **Hall of Fame** recognitions.
+- **Red Teaming**: Conducted full-scope **Red Team assessments**, simulating real-world attacks to uncover hidden vulnerabilities before they could be exploited.
 
 ## 🏆 **Certifications**
 
-- **Google Cyber Security Professional**
-- **Certified EWPTXV2 Ine Security**
-- **Certified EJPTV2 Ine Security**
-- **OPSWAT Cybersecurity Professional**
-- **AWS Certified Security - Specialty**
-- **Certified Cyber Security Analyst**
-- **OPSWAT WebApp Exploitation Expert**
+- **AWS Certified Security - Specialty** (Sep 2023)
+- **Google Cybersecurity Professional** (Feb 2024)
+- **Certified Cloud Security Professional** (INE, Oct 2024)
+- **Web Application Penetration Tester Extreme (EWPTXv2)** (Jun 2024)
+- **Certified Threat Hunting Professional** (Jul 2024)
+- **Certified Digital Forensics Professional** (Jun 2024)
+- **Certified Incident Responder** (May 2024)
+- **Certified OPSWAT Cybersecurity Professional** (Apr 2024)
+- **Certified OPSWAT WebApp Exploitation Expert** (May 2024)
+- **Certified Cybersecurity Analyst** (Jul 2023)
+- **Certified EJPT Penetration Tester** (Jun 2024)
 
-## 📝 **Contributions & Community Involvement**
+## 📝 **Skills & Tools**
 
-- **Thought Leadership:** Publishing articles on emerging cybersecurity threats and best practices.
-- **Industry Engagement:** Participating in conferences and workshops as a speaker and attendee.
-- **Community Participation:** Actively involved in security forums and discussions.
+- **Penetration Testing:** **Web Apps, APIs, Cloud Environments**, and **Network Security**
+- **Bug Bounty Platforms:** **HackerOne**, **Bugcrowd**, **Cobalt**
+- **Exploitation Tools:** **Burp Suite**, **Metasploit**, **Wireshark**, **Nmap**, **OWASP ZAP**
+- **Programming/Scripting:** **Python**, **PHP**, **JavaScript**, **SQL**
+- **Vulnerability Management:** **Burp Suite**, **Nessus**, **Qualys**
+- **Operating Systems:** **Linux**, **Windows**, **Kali Linux**, **Parrot OS**
+- **Cloud Security:** **AWS**, **Azure**
 
 ## 📫 **Connect with Me**
 
-I’m always eager to connect with fellow cybersecurity enthusiasts, organizations, and businesses. Let’s collaborate to enhance security and drive innovation.
+Let’s connect and discuss how we can collaborate on bug bounty hunting or penetration testing projects! Feel free to reach out:
 
 - **Email:** [support@dmeta.one](mailto:support@dmeta.one)
 - **LinkedIn:** [Ali Essam](https://www.linkedin.com/in/dragonked2)
-- **Twitter:** [@3lyy313](http://twitter.com/3lyy313)
 - **GitHub:** [dragonked2](https://www.github.com/dragonked2)
+- **Twitter:** [@3lyy313](http://twitter.com/3lyy313)
 
 ## 📝 **License**
 
 All code and documentation in my repositories are available under the [MIT License](LICENSE).
 
-## 🙏 **Acknowledgments**
-
-A heartfelt thanks to the vibrant cybersecurity community, mentors, and colleagues for their continuous support and inspiration. Your guidance has been instrumental in my journey.
-
 ---
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you and working together to strengthen cybersecurity across the digital world.
+**Thank you for visiting my profile!** I look forward to collaborating on exciting security projects and contributing to the cybersecurity community.
 
+---
