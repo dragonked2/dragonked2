@@ -12,6 +12,10 @@ As the **Founder & CEO** of [DragonMeta](https://www.dmeta.one/), I specialize i
 
 I’m constantly challenging myself to stay ahead of emerging threats, improving my skillset through **bug bounty programs**, and contributing to the security community.
 
+
+[![committers.top badge](https://user-badge.committers.top/egypt_public/dragonked2.svg)](https://user-badge.committers.top/egypt_public/dragonked2)
+
+
 ## 🔍 What I Do
 
 ### 💻 **Penetration Testing**
