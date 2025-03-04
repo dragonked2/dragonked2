@@ -1,86 +1,91 @@
-# 👋 Welcome to Ali Essam's GitHub Profile
+# 👋 Welcome to **Ali Essam's** GitHub Profile
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66541902?v=4" alt="Ali Essam" width="200" style="border-radius: 50%;">
-</p>
+![nation-state-hacker](https://github.com/user-attachments/assets/4fefbbd2-14a9-48bc-905b-e74c22591630)
+
 
 ## 🚀 About Me
 
-I’m **Ali Essam**, a passionate **Penetration Tester**, **Bug Bounty Hunter**, and **Cybersecurity Expert** with over **8 years** of hands-on experience identifying and exploiting security vulnerabilities in web applications, APIs, and cloud platforms.
+I’m **Ali Essam**, a **Cybersecurity Expert**, **Penetration Tester**, and **Bug Bounty Hunter** with over **8 years** of hands-on experience identifying and exploiting security vulnerabilities in **web applications, APIs, and cloud platforms**.
 
-As the **Founder & CEO** of [DragonMeta](https://www.dmeta.one/), I specialize in providing expert **pen testing** and **vulnerability assessments** for global clients, including **Google**, **NASA**, and other leading tech firms.
+As the **Founder & CEO** of [DragonMeta](https://www.dmeta.one/), I specialize in **penetration testing**, **vulnerability research**, and **red teaming** for global enterprises, including **Google, NASA, and Fortune 500 companies**. My work has earned **Hall of Fame** recognition across numerous platforms.
 
-I’m constantly challenging myself to stay ahead of emerging threats, improving my skillset through **bug bounty programs**, and contributing to the security community.
-
+I am constantly pushing the boundaries of **cybersecurity research**, automating security testing, and contributing to open-source security tools.
 
 [![committers.top badge](https://user-badge.committers.top/egypt_public/dragonked2.svg)](https://user-badge.committers.top/egypt_public/dragonked2)
 
+---
 
-## 🔍 What I Do
+## 🔍 **What I Do**
 
 ### 💻 **Penetration Testing**
-
-- **Web Application Security:** Conducting deep dives into web applications and APIs to identify critical vulnerabilities (SQLi, XSS, CSRF, etc.).
-- **Exploitation & Remediation:** Exploiting vulnerabilities, assessing their impact, and providing actionable remediation steps.
-- **Cloud Security:** Assessing cloud-based environments (AWS, Azure) for misconfigurations, weak security settings, and vulnerabilities.
+- **Web & API Security:** Conducting deep security assessments, discovering **critical vulnerabilities** (SQLi, XSS, CSRF, RCE, etc.).
+- **Cloud Security:** Auditing cloud infrastructures (**AWS, Azure**) for misconfigurations and security flaws.
+- **Exploitation & Red Teaming:** Simulating real-world cyberattacks to uncover and mitigate security risks.
 
 ### 🎯 **Bug Bounty Hunting**
+- **HackerOne, Bugcrowd, & Private Programs:** Reported **450+ vulnerabilities**, including **zero-day exploits**.
+- **Hall of Fame Recognition:** Acknowledged for securing high-profile web applications, APIs, and cloud infrastructures.
+- **Advanced Exploitation Techniques:** Developing **custom attack methodologies** to bypass security defenses.
 
-- **HackerOne & Bugcrowd:** Actively hunting bugs on top platforms like HackerOne and Bugcrowd, with over **450 vulnerabilities** reported, including **zero-day exploits**.
-- **Hall of Fame Recognition:** Recognized for significant contributions in securing high-risk web applications, APIs, and cloud infrastructures for global enterprises.
-- **Vulnerability Research:** Continuously exploring novel attack vectors, automating workflows, and sharing findings with the cybersecurity community.
-
-### 🛠 **Security Tools & Techniques**
-
-- **Pen Testing Tools:** Proficient in using **Burp Suite**, **Metasploit**, **Wireshark**, **Nmap**, and custom scripts for comprehensive security testing.
-- **Web Application Firewalls (WAF):** Testing and bypassing WAFs to identify security gaps.
-- **Automation:** Writing custom tools and scripts (in **Python**, **PHP**, **JavaScript**) to automate repetitive tasks and vulnerability scanning.
-
-## 🌟 **Highlighted Projects & Achievements**
-
-- **Egyscan**: Created and open-sourced [Egyscan](https://github.com/dragonked2/Egyscan), a **web vulnerability scanner** that detects common web app security issues.
-- **Bug Bounty Contributions**: Identified and reported critical vulnerabilities, including **zero-days**, on platforms like HackerOne and Bugcrowd, earning **Hall of Fame** recognitions.
-- **Red Teaming**: Conducted full-scope **Red Team assessments**, simulating real-world attacks to uncover hidden vulnerabilities before they could be exploited.
-
-## 🏆 **Certifications**
-
-- **AWS Certified Security - Specialty** (Sep 2023)
-- **Google Cybersecurity Professional** (Feb 2024)
-- **Certified Cloud Security Professional** (INE, Oct 2024)
-- **Web Application Penetration Tester Extreme (EWPTXv2)** (Jun 2024)
-- **Certified Threat Hunting Professional** (Jul 2024)
-- **Certified Digital Forensics Professional** (Jun 2024)
-- **Certified Incident Responder** (May 2024)
-- **Certified OPSWAT Cybersecurity Professional** (Apr 2024)
-- **Certified OPSWAT WebApp Exploitation Expert** (May 2024)
-- **Certified Cybersecurity Analyst** (Jul 2023)
-- **Certified EJPT Penetration Tester** (Jun 2024)
-
-## 📝 **Skills & Tools**
-
-- **Penetration Testing:** **Web Apps, APIs, Cloud Environments**, and **Network Security**
-- **Bug Bounty Platforms:** **HackerOne**, **Bugcrowd**, **Cobalt**
-- **Exploitation Tools:** **Burp Suite**, **Metasploit**, **Wireshark**, **Nmap**, **OWASP ZAP**
-- **Programming/Scripting:** **Python**, **PHP**, **JavaScript**, **SQL**
-- **Vulnerability Management:** **Burp Suite**, **Nessus**, **Qualys**
-- **Operating Systems:** **Linux**, **Windows**, **Kali Linux**, **Parrot OS**
-- **Cloud Security:** **AWS**, **Azure**
-
-## 📫 **Connect with Me**
-
-Let’s connect and discuss how we can collaborate on bug bounty hunting or penetration testing projects! Feel free to reach out:
-
-- **Email:** [support@dmeta.one](mailto:support@dmeta.one)
-- **LinkedIn:** [Ali Essam](https://www.linkedin.com/in/dragonked2)
-- **GitHub:** [dragonked2](https://www.github.com/dragonked2)
-- **Twitter:** [@3lyy313](http://twitter.com/3lyy313)
-
-## 📝 **License**
-
-All code and documentation in my repositories are available under the [MIT License](LICENSE).
+### 🛠 **Security Research & Tools**
+- **Web Application Firewalls (WAF) Bypass:** Identifying and evading security filters.
+- **Automation:** Developing **custom tools** for vulnerability scanning and exploitation (**Python, PHP, JavaScript**).
+- **Security Contributions:** Actively contributing to **open-source security projects**.
 
 ---
 
-**Thank you for visiting my profile!** I look forward to collaborating on exciting security projects and contributing to the cybersecurity community.
+## 🌟 **Highlighted Projects & CVEs**
+
+- **[Egyscan](https://github.com/dragonked2/Egyscan):** A high-speed web vulnerability scanner that reduced security breaches by **88%** and achieved scanning speeds of **600MB/s**.
+- **[dons](https://github.com/dragonked2/dons):** A powerful automated security reconnaissance tool.
+
+---
+
+## 🏆 **Certifications**
+
+| **Certification**                                           | **Issued**  |
+|------------------------------------------------------------|------------|
+| AWS Certified Security - Specialty                        | Sep 2023   |
+| Google Cybersecurity Professional Certificate             | Feb 2024   |
+| Certified Cloud Security Professional (INE)               | Oct 2024   |
+| Web Application Penetration Tester Extreme (EWPTXv2)      | Jun 2024   |
+| Certified Threat Hunting Professional                     | Jul 2024   |
+| Certified Digital Forensics Professional                  | Jun 2024   |
+| Certified Incident Responder                              | May 2024   |
+| Certified OPSWAT Cybersecurity Professional               | Apr 2024   |
+| Certified OPSWAT WebApp Exploitation Expert               | May 2024   |
+| Certified Cybersecurity Analyst                           | Jul 2023   |
+| Certified EJPT Penetration Tester                         | Jun 2024   |
+| Certified OWASP API Security Top 10                       | Jul 2024 |
+
+---
+
+## 📝 **Skills & Tools**
+
+- **Penetration Testing:** Web Apps, APIs, Cloud Environments, Network Security  
+- **Bug Bounty Platforms:** HackerOne, Bugcrowd, Cobalt  
+- **Exploitation Tools:** Burp Suite, Metasploit, Wireshark, Nmap, OWASP ZAP  
+- **Programming & Scripting:** Python, PHP, JavaScript, SQL  
+- **Cloud Security:** AWS, Azure  
+- **Vulnerability Management:** Nessus, Qualys, OpenVAS  
+
+---
+
+## 📫 **Connect with Me**
+
+- **🌐 Website:** [DragonMeta](https://www.dmeta.one/)  
+- **📩 Email:** [support@dmeta.one](mailto:support@dmeta.one)  
+- **🔗 LinkedIn:** [Ali Essam](https://www.linkedin.com/in/dragonked2)  
+- **🐙 GitHub:** [dragonked2](https://github.com/dragonked2)  
+- **🐦 Twitter:** [@3lyy313](http://twitter.com/3lyy313)  
+
+---
+
+## 📜 **License**
+All code and documentation in my repositories are available under the **[MIT License](LICENSE)**.
+
+> *"Stay curious, stay secure, and always be one step ahead of the threat."*  
+
+**Thank you for visiting my profile!** Let’s collaborate on cybersecurity research and make the digital world safer. 🚀🔥
 
 ---
